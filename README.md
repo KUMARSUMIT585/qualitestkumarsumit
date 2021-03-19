@@ -33,4 +33,16 @@ BDD - specflow + c sharp + selenium
 # Debt so far 
     tests not complete- started too late in the day & was occupied at office work (could not code all that was planned).
     Could do justice if I bargain time again
+   Most things missing because I could spend very little time .
+   
+    further improvements-
+    1.more configurations
+    2.seperation between business functions and tests
+    3.page classes (could not build due to time)
+    4.more reusability
+    5.more utility functions 
+    6.multi threaded for fast executions
+
+
+    
 created by kumar sumit 
