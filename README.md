@@ -31,6 +31,6 @@ BDD - specflow + c sharp + selenium
     
     
 # Debt so far 
-    will have to solve Nuget dependency issues , tests are executing but dotnet build is failing ( probably due to dotnet framework version and dependencies )
-
+    tests not complete- started too late in the day & was occupied at office work (could not code all that was planned).
+    Could do justice if I bargain time again
 created by kumar sumit 
