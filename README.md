@@ -4,8 +4,7 @@ BDD - specflow + c sharp + selenium
 
     Install Visual Studio Code (https://code.visualstudio.com/download)
     
-    Git clone the project https://github.com/KUMARSUMIT585/vtaf.git
-    
+    Git clone the project https://github.com/KUMARSUMIT585/qualitestkumarsumit
     
     Pre requisite (has to be edited further,it is a draft version) -  dotnet core should be installed 
     To download -   https://dotnet.microsoft.com/download
